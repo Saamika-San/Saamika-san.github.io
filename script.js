@@ -23,12 +23,12 @@ function showMessage() {
 // Love Quiz Functionality
 function startQuiz() {
     const questions = [
-        { question: "Who Proposed first😀?", answer: "Saniya" },
-        { question: "Who fell first😌?", answer: "Anamika" },
-        {question:"who fell harder😌?",answer:"Saniya"},
-        { question:"Anamika ka pehla baccha kon😝?", answer: "Saniya" },
-        { question:"Who is Nakita Jago🧐😝?",answer:"Anamika"}, 
-        {question:"I LOVE YOU ANAMIKA🥰",answer:"i love you too"} ,
+        { question: "Who Proposed first😀?", answer: "" },
+        { question: "Who fell first😌?", answer: "" },
+        {question:"who fell harder😌?",answer:""},
+        { question:"pehla baccha kon😝?", answer: "" },
+        { question:"Who is Nakita Jago🧐😝?",answer:""}, 
+        {question:"I LOVE YOU 🥰",answer:"i love you too"} ,
         {question:"Do you think there's more questions🧐? yes/no",answer:"NULL"},
         {question:"HAHAHAHAH you were wrong , bye no more silly questions😁 just type ok!",answer:"ok"}    
 
